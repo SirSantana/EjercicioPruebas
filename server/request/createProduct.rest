@@ -1,0 +1,12 @@
+
+POST http://localhost:3001/products
+Content-Type: application/json
+
+{
+    "nombre": "Pdsadasdasdsa",
+    "precio": 70.000,
+    "marca": "Autotec",
+    "referencia": 7667,
+    "carros": "Aveo, Nubira, Optra, Cielo",
+    "cantidad": 3
+}

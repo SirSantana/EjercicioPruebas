@@ -1,0 +1,2 @@
+
+DELETE  http://localhost:3001/products/61fc8de76d80e7d3204ac0b1

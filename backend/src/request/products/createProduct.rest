@@ -1,0 +1,9 @@
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+    "nombre": "Eje levas",
+    "category": "Chevrolet Corsa",
+    "price": "290.000"
+}

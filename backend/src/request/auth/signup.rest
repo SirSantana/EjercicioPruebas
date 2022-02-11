@@ -1,0 +1,10 @@
+
+POST http://localhost:3001/api/auth/signup
+Content-Type: application/json
+
+{
+    "nombre": "Lito23",
+    "email": "salazarmiguelito22dassa3@gmail.com",
+    "password": "123456",
+    "roles":["moderator", "admin"]
+}

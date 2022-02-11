@@ -1,0 +1,7 @@
+
+PATCH http://localhost:3001/api/products/61f1a0308ca6f4289892cb50
+Content-Type: application/json
+
+{
+    "nombre": "Bomba de Gasolina"
+}

@@ -1,0 +1,7 @@
+
+PATCH http://localhost:3001/products/61fc8c6efebcf175cc431086
+Content-Type: application/json
+
+{
+    "precio":"$70.000"
+}
